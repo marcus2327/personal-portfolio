@@ -1,0 +1,5 @@
+https://file:///Users/marcustwiggs/Desktop/CPT-262/Portfolio/index.html
+https	:file:///Users/marcustwiggs/Desktop/CPT-262/Portfolio/about.html
+https:file:///Users/marcustwiggs/Desktop/CPT-262/Portfolio/education.html
+https:file:///Users/marcustwiggs/Desktop/CPT-262/Portfolio/careers.html
+https:file:///Users/marcustwiggs/Desktop/CPT-262/Portfolio/contact.html
